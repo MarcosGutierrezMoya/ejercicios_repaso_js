@@ -4,4 +4,4 @@ function recorrido(arr) {
         console.log(arr[i]);
     }
 }
-console.log(recorrido([1,5,8,3]));
+recorrido([1,5,8,3]);
