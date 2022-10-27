@@ -1,4 +1,4 @@
-console.log("Ej 4");
+console.log("==========Ej 4=========");
 
 const array = ["apple", "orange", "banana", "mango", "watermelon", "grape", "peach"];
 

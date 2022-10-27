@@ -1,4 +1,4 @@
-console.log("Ej 3");
+console.log("==========Ej 3=========");
 
 array1 = [1,0,2,3,4];  
 array2 = [3,5,6,7,8,13];
